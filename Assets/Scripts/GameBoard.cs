@@ -1,5 +1,6 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class GameBoard : MonoBehaviour
@@ -20,18 +21,35 @@ public class GameBoard : MonoBehaviour
     public AudioClip swapSound;
     public AudioClip matchSound;
 
+    public GameObject matchParticlePrefab;
+
+    public PauseMenu pauseMenu;
 
     void Start()
     {
         grid = new GameObject[width, height];
 
-        availableFruits = PickRandomFruits(fruitPrefabs, fruitLimit);
+        SaveSystem.LoadGame(this);
 
-        GenerateBoard();
-        StartCoroutine(CheckAndCollapse());
+        if (IsBoardEmpty())
+        {
+            availableFruits = PickRandomFruits(fruitPrefabs, fruitLimit);
+            GenerateBoard();
+            StartCoroutine(CheckAndCollapse());
+        }
 
         audioSource = gameObject.AddComponent<AudioSource>();
     }
+
+    private bool IsBoardEmpty()
+    {
+        foreach (var cell in grid)
+        {
+            if (cell != null) return false;
+        }
+        return true;
+    }
+
 
     private GameObject[] PickRandomFruits(GameObject[] source, int count)
     {
@@ -90,6 +108,14 @@ public class GameBoard : MonoBehaviour
             yield return new WaitForSeconds(0.3f);
             yield return StartCoroutine(FillBoard());
         }
+        if (!HasPossibleMoves())
+        {
+            Debug.Log("No more possible moves. Game Over!");
+            if (pauseMenu != null)
+            {
+                pauseMenu.ShowEndGameInput(); // Show end game UI
+            }
+        }
 
         Debug.Log("Final Score: " + score);
     }
@@ -139,12 +165,24 @@ public class GameBoard : MonoBehaviour
         int count = matches.Count;
         if (count == 0) return;
 
-        if (matchSound != null) audioSource.PlayOneShot(matchSound,2.0f);
+        if (matchSound != null) audioSource.PlayOneShot(matchSound, 2.0f);
 
         foreach (var fruit in matches)
         {
             Vector2Int pos = GetGridPosition(fruit.transform.position);
             grid[pos.x, pos.y] = null;
+
+            // Instantiate particle effect at fruit position
+            if (matchParticlePrefab != null)
+            {
+                Instantiate(matchParticlePrefab, fruit.transform.position, Quaternion.identity);
+                Debug.Log("Playing particle at: " + fruit.transform.position);
+            }
+            else
+            {
+                Debug.LogWarning("Match particle prefab is not assigned!");
+            }
+
             Destroy(fruit);
         }
 
@@ -344,6 +382,91 @@ public class GameBoard : MonoBehaviour
         float xOffset = -(width - 1) * cellSize / 2f;
         float yOffset = -(height - 1) * cellSize / 2f;
         return new Vector3(x * cellSize + xOffset, y * cellSize + yOffset, 0);
+    }
+
+    public GameObject GetFruitAt(int x, int y) => grid[x, y];
+
+    public void ClearBoard()
+    {
+        foreach (Transform child in transform)
+            Destroy(child.gameObject);
+        grid = new GameObject[width, height];
+    }
+
+    public void SpawnFruit(int x, int y, string fruitName)
+    {
+        GameObject prefab = fruitPrefabs.FirstOrDefault(f => f.name == fruitName);
+        if (prefab != null)
+        {
+            Vector3 pos = GetWorldPosition(x, y);
+            GameObject fruit = Instantiate(prefab, pos, Quaternion.identity, transform);
+            grid[x, y] = fruit;
+        }
+    }
+
+    // Get current available fruit prefab names
+    public List<string> GetAvailableFruitNames()
+    {
+        return availableFruits.Select(f => f.name.Replace("(Clone)", "")).ToList();
+    }
+
+    // Set available fruits by name list
+    public void SetAvailableFruits(List<string> names)
+    {
+        List<GameObject> result = new List<GameObject>();
+        foreach (string name in names)
+        {
+            GameObject prefab = fruitPrefabs.FirstOrDefault(f => f.name == name);
+            if (prefab != null)
+            {
+                result.Add(prefab);
+            }
+        }
+        availableFruits = result.ToArray();
+    }
+
+    private bool HasPossibleMoves()
+{
+    for (int x = 0; x < width; x++)
+    {
+        for (int y = 0; y < height; y++)
+        {
+            if (grid[x, y] == null) continue;
+
+            // Check right swap
+            if (x < width - 1 && grid[x + 1, y] != null)
+            {
+                SwapInGrid(x, y, x + 1, y);
+                if (FindMatches().Count > 0)
+                {
+                    SwapInGrid(x, y, x + 1, y);
+                    return true;
+                }
+                SwapInGrid(x, y, x + 1, y);
+            }
+
+            // Check up swap
+            if (y < height - 1 && grid[x, y + 1] != null)
+            {
+                SwapInGrid(x, y, x, y + 1);
+                if (FindMatches().Count > 0)
+                {
+                    SwapInGrid(x, y, x, y + 1);
+                    return true;
+                }
+                SwapInGrid(x, y, x, y + 1);
+            }
+        }
+    }
+    return false;
+}
+
+// Swap two fruits temporarily for checking
+    private void SwapInGrid(int x1, int y1, int x2, int y2)
+    {
+        GameObject temp = grid[x1, y1];
+        grid[x1, y1] = grid[x2, y2];
+        grid[x2, y2] = temp;
     }
 
 }

@@ -1,2 +1,14 @@
 fileFormatVersion: 2
 guid: c058665dfbc74db43a792693ee496840
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - swapSound: {fileID: 8300000, guid: 0e5767a0367d185429752c1657a86a77, type: 3}
+  - matchSound: {fileID: 8300000, guid: 2f4bb3b29160f5049aef254cc8290201, type: 3}
+  - matchParticlePrefab: {fileID: 5434597028840875263, guid: 1d471b14ebad4ef44aa810e8bc6f60ef, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

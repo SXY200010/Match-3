@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "D:\\Match-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|d:\\match-3\\assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|d:\\match-3\\assets\\scripts\\fruitdrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruitdrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|d:\\match-3\\assets\\shader\\glowoutline.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\glowoutline.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\recordsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\recordsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\recordpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\recordpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\recordentryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\recordentryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\particle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\particle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,45 +42,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GlowOutline.shader",
-              "DocumentMoniker": "D:\\Match-3\\Assets\\Shader\\GlowOutline.shader",
-              "RelativeDocumentMoniker": "Assets\\Shader\\GlowOutline.shader",
-              "ToolTip": "D:\\Match-3\\Assets\\Shader\\GlowOutline.shader",
-              "RelativeToolTip": "Assets\\Shader\\GlowOutline.shader",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-06-04T04:28:10.357Z",
+              "DocumentIndex": 5,
+              "Title": "SaveSystem.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\SaveSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\SaveSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:02:45.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FruitDrag.cs",
-              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\FruitDrag.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FruitDrag.cs",
-              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\FruitDrag.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FruitDrag.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAswHUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T04:21:26.062Z",
+              "WhenOpened": "2025-06-23T20:58:52.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuManager.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuManager.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:04:59.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecordEntryUI.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\RecordEntryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RecordEntryUI.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\RecordEntryUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RecordEntryUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:15:51.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecordPanel.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\RecordPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RecordPanel.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\RecordPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RecordPanel.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:55:16.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UIController.cs",
-              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\UIController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UIController.cs",
-              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\UIController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "RecordSystem.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\RecordSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RecordSystem.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\RecordSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RecordSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T02:44:26.681Z"
+              "WhenOpened": "2025-06-23T23:23:30.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Particle.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\Particle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Particle.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\Particle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Particle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:05:27.416Z"
             },
             {
               "$type": "Document",
@@ -72,11 +139,11 @@
               "Title": "GameBoard.cs",
               "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\GameBoard.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameBoard.cs",
-              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\GameBoard.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameBoard.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAYwDwAAAA1AAAAAAAAAA==",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\GameBoard.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\GameBoard.cs*",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAAAKEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T19:07:35.727Z",
+              "WhenOpened": "2025-06-18T02:03:01.239Z",
               "EditorCaption": ""
             }
           ]
