@@ -27,7 +27,7 @@
 ## Controls
 
 - **Mouse Click + Drag:** Swap two adjacent fruits
-- **ESC Key:** Open or close pause menu
+- **P Key:** Open or close pause menu
 - **Pause Menu Options:**
   - **Save:** Save current game state to file
   - **End Game:** Submit score and return to main menu
