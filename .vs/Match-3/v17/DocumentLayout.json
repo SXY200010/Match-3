@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "D:\\Match-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|d:\\match-3\\assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\recordsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\recordsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\recordpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\recordpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\recordentryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\recordentryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\particle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\particle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|d:\\match-3\\assets\\scripts\\buffdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buffdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\buffcardui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buffcardui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\buffpanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buffpanelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\buffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\fruitspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruitspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\colorbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,92 +42,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuffCardUI.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\BuffCardUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuffCardUI.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\BuffCardUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuffCardUI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:10:17.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuffPanelUI.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\BuffPanelUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuffPanelUI.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\BuffPanelUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuffPanelUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:09:53.7Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "BuffManager.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\BuffManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuffManager.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\BuffManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuffManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:08:51.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuffDefinition.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\BuffDefinition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuffDefinition.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\BuffDefinition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuffDefinition.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T20:59:29.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "SaveSystem.cs",
               "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\SaveSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem.cs",
               "ToolTip": "D:\\Match-3\\Assets\\Scripts\\SaveSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\SaveSystem.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAIwEkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAgwIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T21:02:45.61Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PauseMenu.cs",
-              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\PauseMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
-              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\PauseMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwB8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T20:58:52.664Z",
+              "WhenOpened": "2025-09-07T20:48:11.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainMenuManager.cs",
-              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\MainMenuManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuManager.cs",
-              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\MainMenuManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MainMenuManager.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAQwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T03:04:59.897Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RecordEntryUI.cs",
-              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\RecordEntryUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\RecordEntryUI.cs",
-              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\RecordEntryUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\RecordEntryUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "FruitSpecial.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\FruitSpecial.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FruitSpecial.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\FruitSpecial.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FruitSpecial.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T00:15:51.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RecordPanel.cs",
-              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\RecordPanel.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\RecordPanel.cs",
-              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\RecordPanel.cs",
-              "RelativeToolTip": "Assets\\Scripts\\RecordPanel.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:55:16.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RecordSystem.cs",
-              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\RecordSystem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\RecordSystem.cs",
-              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\RecordSystem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\RecordSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T23:23:30.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Particle.cs",
-              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\Particle.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Particle.cs",
-              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\Particle.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Particle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:05:27.416Z"
+              "WhenOpened": "2025-09-07T01:53:57.975Z"
             },
             {
               "$type": "Document",
@@ -137,10 +130,22 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameBoard.cs",
               "ToolTip": "D:\\Match-3\\Assets\\Scripts\\GameBoard.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameBoard.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:03:01.239Z",
+              "WhenOpened": "2025-09-07T01:52:57.903Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorBomb.cs",
+              "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\ColorBomb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColorBomb.cs",
+              "ToolTip": "D:\\Match-3\\Assets\\Scripts\\ColorBomb.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColorBomb.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T01:52:15.056Z"
             }
           ]
         }

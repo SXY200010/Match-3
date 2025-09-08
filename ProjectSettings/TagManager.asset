@@ -9,6 +9,7 @@ TagManager:
   - Blueberry
   - Grapes
   - Orange
+  - ColorBomb
   layers:
   - Default
   - TransparentFX
