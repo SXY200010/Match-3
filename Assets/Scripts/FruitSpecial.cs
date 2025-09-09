@@ -16,6 +16,7 @@ public class FruitSpecial : MonoBehaviour
         isRowBlaster = true;
         isColorBomb = false;
         if (bombIcon != null) bombIcon.SetActive(true);
+        if (colorbombIcon != null) colorbombIcon.SetActive(false);
     }
 
     // Activate as a color bomb (5-match)
@@ -24,6 +25,8 @@ public class FruitSpecial : MonoBehaviour
         isColorBomb = true;
         isRowBlaster = false;
         if (colorbombIcon != null) colorbombIcon.SetActive(true);
+        if (bombIcon != null) bombIcon.SetActive(false);
+        gameObject.tag = "ColorBomb";
     }
 
     public void ResetSpecial()

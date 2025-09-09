@@ -112,10 +112,10 @@ public class GameBoard : MonoBehaviour
             ProcessMatchGroups(groups); // scoring happens inside
 
             // --- chain-based offer (>=3) ---
-            if (BuffManager.Instance.ShouldOfferOnChain(currentChainDepth, 3) && buffPanelUI != null)
-            {
-                buffPanelUI.ShowChoices();
-            }
+            //if (BuffManager.Instance.ShouldOfferOnChain(currentChainDepth, 3) && buffPanelUI != null)
+            //{
+            //    buffPanelUI.ShowChoices();
+            //}
 
             yield return new WaitForSeconds(0.2f);
             yield return StartCoroutine(CollapseColumns());

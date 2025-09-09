@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "D:\\Match-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\fruitspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruitspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|d:\\match-3\\assets\\scripts\\buffdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|d:\\match-3\\assets\\scripts\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\buffdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buffdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\fruitspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruitspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|D:\\Match-3\\assets\\scripts\\colorbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8670537-FDEC-BD42-CFCD-A6055F6D53F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BuffCardUI.cs",
               "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\BuffCardUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BuffCardUI.cs",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BuffPanelUI.cs",
               "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\BuffPanelUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BuffPanelUI.cs",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BuffManager.cs",
               "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\BuffManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BuffManager.cs",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BuffDefinition.cs",
               "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\BuffDefinition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BuffDefinition.cs",
@@ -94,12 +94,11 @@
               "RelativeToolTip": "Assets\\Scripts\\BuffDefinition.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwBAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:59:29.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T20:59:29.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SaveSystem.cs",
               "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\SaveSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem.cs",
@@ -112,15 +111,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "FruitSpecial.cs",
               "DocumentMoniker": "D:\\Match-3\\Assets\\Scripts\\FruitSpecial.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FruitSpecial.cs",
               "ToolTip": "D:\\Match-3\\Assets\\Scripts\\FruitSpecial.cs",
               "RelativeToolTip": "Assets\\Scripts\\FruitSpecial.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwBkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T01:53:57.975Z"
+              "WhenOpened": "2025-09-07T01:53:57.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,7 +130,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameBoard.cs",
               "ToolTip": "D:\\Match-3\\Assets\\Scripts\\GameBoard.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameBoard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAQwH4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T01:52:57.903Z",
               "EditorCaption": ""
